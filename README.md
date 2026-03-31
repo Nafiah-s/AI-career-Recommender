@@ -84,6 +84,11 @@ ai-career-recommendation-system/
 ```
 
 ---
+## 🌐 Live Demo
+
+👉 https://ai-career-recommender-uakgwzdvxshujfuuamvwyn.streamlit.app/
+
+---
 
 ## 📊 How It Works
 
